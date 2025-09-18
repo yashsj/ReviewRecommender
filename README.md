@@ -52,19 +52,9 @@ ReviewRecommender is a machine learning-powered semantic search and recommendati
 - Emotion analysis adds an extra dimension, letting users find reviews that match not just what but how they want to feel.
 - Category and tone filtering increases user trust and recommendation relevance.
 
-## File Structure
 
-- `part1.ipynb` — Data download, cleaning, merging, and feature engineering
-- `part2.ipynb` — NLP, embeddings, vector search, emotion model, Gradio UI
-- `requirements.txt` — Library dependencies
-- `.gitignore` — Ignore temporary/data files
-- `images/` — (Optional) Example dashboard/screenshots
 
-## License
 
-MIT License
-
-## Credits
 
 Inspired by open-source tutorials and the Yelp Open Dataset. Built using pandas, LangChain, Chroma, Hugging Face Transformers, Gradio, and more.
 
