@@ -1,0 +1,12 @@
+pandas
+sentence-transformers
+langchain
+chromadb
+gradio
+python-dotenv
+matplotlib
+seaborn
+transformers
+tqdm
+kagglehub
+openai
